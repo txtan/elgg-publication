@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Roger Curry and Tingxi Tan @ Grid Research Centre" />
+        <field key="version" value="0.2" />
+        <field key="description" value="A plugin for users to manage their publications"/>
+        <field key="website" value="http://grc.ucalgary.ca" />
+        <field key="copyright" value="(C) Grid Research Centre 2009" />
+        <field key="licence" value="GNU Public License version 2" />
+        <field key="elgg_version" value="2009061701" />
+</plugin_manifest>
